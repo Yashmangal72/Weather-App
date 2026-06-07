@@ -43,11 +43,11 @@ Through this project, I learned:
 
 <img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/86d8615c-2c19-4f84-8551-fb9088019f65" />
 
-
 ### Weather Search
 
 <img width="1913" height="975" alt="image" src="https://github.com/user-attachments/assets/e98385d4-de62-46f1-bf27-8e642b74fbf0" />
 
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/f0f069bc-9123-480b-ac36-b4cc5e946e4f" />
 
 ## Installation
 
