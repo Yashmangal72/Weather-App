@@ -51,9 +51,9 @@ Through this project, I learned:
 
 <img width="3840" height="2416" alt="Panjab" src="https://github.com/user-attachments/assets/c3906690-8f91-44a9-bd6c-fba8a0274e05" />
 
+<img width="3840" height="2416" alt="London" src="https://github.com/user-attachments/assets/c2c3a218-ac96-4cd8-8d6b-7f90872ad930" />
 
-
-
+<img width="3840" height="2416" alt="Tokyo" src="https://github.com/user-attachments/assets/280c410f-3caa-4890-8cc7-6174ca395f74" />
 
 ## Installation
 
