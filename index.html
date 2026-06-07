@@ -3,17 +3,32 @@
     <head>
     <title>Weather App</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     </head>
     <body>
-        <h1>Weather App</h1>
-        <input type="text" id="inputCity" placeholder="Enter a City">
-        <button id="getData">Get Weather</button>
+        <div class="head">
+        <h1>🌦️ Weather App</h1>
+        <p class="subtitle">Get real-time weather conditions anywhere in the world</p>
+        </div>
+        
+        <div class="search-box">
+            <input type="text" id="inputCity" placeholder="Enter a City">
+            <button id="getData">Get Weather</button>
+            </div>
+            <h2 id="welcome">🌍 Search any city to get weather information</h2>
 
         <div id="weather">
-            <img id="weatherIcon">
+            <h3 id="date"></h3>
             <h2 id="cityName"></h2>
             <p id="cityTemp"></p>
+            <p id="feelTemp"></p>
+            <p id="maxTemp"></p>
+            <p id="minTemp"></p>
             <p id="condition"></p>
+            <p id="windSpeed"></p>
+            <p id="humidity"></p>
+            <p id="sunrise"></p>
+            <p id="sunset"></p>
         </div>
 
         <script src="script.js"></script>
