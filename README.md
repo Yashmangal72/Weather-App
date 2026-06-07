@@ -17,6 +17,8 @@ A responsive weather application built using HTML, CSS, JavaScript, and WeatherA
 - Error handling for invalid city names
 - Responsive design
 - Modern glassmorphism UI
+- Weather-based Background Changes
+- Many Weather Parameters
 
 ## Technologies Used
 
@@ -41,13 +43,17 @@ Through this project, I learned:
 
 ## Screenshots
 
-<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/86d8615c-2c19-4f84-8551-fb9088019f65" />
+<img width="3840" height="2216" alt="Loading Page" src="https://github.com/user-attachments/assets/4f58769d-cb4f-4893-ad31-eb49749185a7" />
 
 ### Weather Search
 
-<img width="1913" height="975" alt="image" src="https://github.com/user-attachments/assets/e98385d4-de62-46f1-bf27-8e642b74fbf0" />
+<img width="3840" height="2416" alt="Jaipur" src="https://github.com/user-attachments/assets/53339325-159b-4242-879d-561a221db0e9" />
 
-<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/f0f069bc-9123-480b-ac36-b4cc5e946e4f" />
+<img width="3840" height="2416" alt="Panjab" src="https://github.com/user-attachments/assets/c3906690-8f91-44a9-bd6c-fba8a0274e05" />
+
+
+
+
 
 ## Installation
 
@@ -77,7 +83,6 @@ https://www.weatherapi.com/
 - 5-Day Forecast
 - Current Location Weather
 - Recent Search History
-- Weather-based Background Changes
 
 ## Author
 
